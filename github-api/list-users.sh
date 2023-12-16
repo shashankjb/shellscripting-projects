@@ -6,9 +6,6 @@
 # Date: 16/12/2023                  #
 #####################################
 
-#Debug mode is on#
-set -x
-
 #GitHub API URL
 api_url= "https://api.github.com"
 
