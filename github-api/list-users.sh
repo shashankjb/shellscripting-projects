@@ -10,12 +10,12 @@
 api_url= "https://api.github.com"
 
 # Github username and token
-USERNAME= $username 
-TOKEN= $token 
+USERNAME=$username 
+TOKEN=$token 
 
 #User and repository information
-REPO_OWNER= $1
-REPO_NAME= $2
+REPO_OWNER=$1
+REPO_NAME=$2
 
 #Function to make a GET request to the github API
 function github_api_get {
